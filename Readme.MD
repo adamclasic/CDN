@@ -11,5 +11,5 @@ And links to files look like this:
 
 * https://cdn.statically.io/gh/adamclasic/CDN@main/lzjb.js
 * https://cdn.jsdelivr.net/gh/adamclasic/CDN@main/lzjb.js
-https://raw.githack.com/
-https://gitloaf.com
+* https://raw.githack.com/
+* https://gitloaf.com
